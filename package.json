@@ -1,0 +1,16 @@
+{
+  "name": "friendsflexdata",
+  "version": "1.1.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "kinvey-flex-sdk": "^3.3.0",
+    "mongodb-query-parser": "^2.0.2"
+  }
+}
